@@ -1,4 +1,4 @@
-# Murdoch Royal Comission Watermark App
+# Murdoch Royal Commission Watermark App
 Android app used to apply a #MurdochRoyalCommission watermark to photos and videos.
 
 ## License
